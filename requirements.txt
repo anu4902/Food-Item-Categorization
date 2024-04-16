@@ -1,0 +1,8 @@
+sentence-transformers
+nltk
+openai
+xgboost
+gensim
+tqdm
+pandas
+numpy
